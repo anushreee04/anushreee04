@@ -1,16 +1,18 @@
 ## Hi there 👋
+I’m Anushree
 
-<!--
-**anushreee04/anushreee04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in data analytics and process improvement
+💞️ I’m looking to collaborate on projects with similar minded people
+📫 You can connect with me on LinkedIn: https://www.linkedin.com/in/anushree-choudhury-789a35259/
 
-Here are some ideas to get you started:
+##Core Competencies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Data Analysis
+-Data Visualization
+-Statistics/ Econometrics
+
+##Technical Skilss
+-Microsoft Excel
+-SQL
+-Power BI
+
